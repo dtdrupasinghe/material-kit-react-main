@@ -25,3 +25,8 @@ package-lock.json
 yarn.lock
 
 commit.sh
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
